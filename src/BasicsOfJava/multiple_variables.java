@@ -13,5 +13,11 @@ public class multiple_variables {
 
         System.out.println("1 hour 15 min se lecture continue karna hai");
 
+        System.out.println(x+y+z);
+        System.out.println("HELLO "+x+y+z);
+        System.out.println(+x+y+z);
+        System.out.println(x+y+""+z);
+        System.out.println("HELLO " + "ARCHIT");
+
     }
 }
